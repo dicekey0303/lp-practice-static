@@ -8,4 +8,4 @@
 このリポジトリのタスクはプロジェクトにて管理されています。
 タスクの追加・進行・完了時は、プロジェクトの更新も忘れないようにしてください。
 
-https://github.com/dicekye0303/lp-practice-static/projects/1
+https://github.com/users/dicekey0303/projects/4/views/1
